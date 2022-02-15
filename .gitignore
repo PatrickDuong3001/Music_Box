@@ -1,0 +1,8 @@
+*.mif
+*.bak
+/db
+/incremental_db
+/output_files
+/simulation
+SCOMP.qws
+*.bsf
