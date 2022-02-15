@@ -7,3 +7,4 @@ https://youtu.be/jqf1syqQDZU
 Components: 
 - 1 DE10-Lite FPGA
 - 1 buzzer
+- 1 mini power supplier 
