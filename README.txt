@@ -1,5 +1,5 @@
 This group project is developed by Patrick, Kevin, Rin, and Mark. 
-It's written in MIPS assembly and VHDL. 
+It's written in MIPS Assembly and VHDL. 
 
 Functionality:
 https://youtu.be/jqf1syqQDZU 
